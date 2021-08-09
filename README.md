@@ -1,2 +1,2 @@
 # Personel Web Site
-This site made with CSS Grid
+This site was made with CSS Grid
