@@ -11,9 +11,12 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*BkZPPGIOfDr2eOvH4xS27
 pageStyle: "normal"
 title: "JavaScript: What is Hoisting? — Part I"
 subtitle: "Hoisting Behavior on Variables"
+series: ["JavaScript: What is Hoisting?"]
+series_weight: 1
+seriesNavigation: true
 ---
 
-> Makaleyi Türkçe olarak [buradan](https://medium.com/@uygardev/javascriptte-hoisting-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-d64a675ef46c) okuyabilirsiniz
+> Seriyi tek makale halinde ve Türkçe olarak [buradan](/posts/javascript-hoisting-nedir/) okuyabilirsiniz.
 
 In this article, I will talk about hoisting, one of the most confusing concepts in Js. Hoisting puts declarations at the beginning of the code when the Engine runs our Js code. Two essential elements that affect the hosting behavior are the type of value and how it is defined.
 

@@ -106,7 +106,6 @@ copyright = "Uygar Aydin"
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
 
-
 [params.home.profile]
   enable = true
   avatarURL = "/images/uygar-aydin.webp"

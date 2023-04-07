@@ -13,7 +13,7 @@ title: "TypeScript: Tipler ve Değer Kümeleri"
 subtitle: "TypeScript: Tipleri, Değer Kümeleri Olarak Düşünmek | Literal, Union ve Intersection Tipler, Type Alias"
 ---
 
-> Read this post in English [here](https://medium.com/@uygardev/typescript-thinking-of-types-as-value-sets-introduction-c4360942ce4b)
+> Read this post in English [here](/posts/typescript-thinking-of-types-as-value-sets-part-i/).
 
 Yazdığımız bir JS kodunu çalıştırdığımızda deklare ettiğimiz her değişken değer atanmış olsun veya olmasın javascript değer evreninde bir değere sahip olur. Bu değerler "uygar", 46, true, "saygin", undefined, null, { adi: "saygin", brans: "Beden Eğitimi" }, (a,b) => a-b… gibi olası tüm değerler olabilir. Tüm bu olası değerler ortak özelliklerine göre gruplandığında her ayrışan grup kendi içerisinde, olası değerlerini içeren bir küme halini alır. Biz bu kümelerini tipler olarak düşünebiliriz.
 

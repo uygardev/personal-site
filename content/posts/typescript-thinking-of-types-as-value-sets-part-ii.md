@@ -11,9 +11,12 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*Aas9cSBztwzGAuhYuueDM
 pageStyle: "normal"
 title: "TypeScript: Thinking of Types as Value Sets — Part II"
 subtitle: "Literal, Union, and Intersection Types, Type Alias"
+series: ["TypeScript: Thinking of Types as Value Sets"]
+series_weight: 2
+seriesNavigation: true
 ---
 
-> Seriyi tek makale halinde ve Türkçe olarak [buradan](https://blog.uygar.dev/typescriptte-tipleri-deger-kumeleri-olarak-dusunmek-3cfd5b6adbf4?source=friends_link&sk=47d43b6f579d7e77367cac90a09bd1f9) okuyabilirsiniz
+> Seriyi tek makale halinde ve Türkçe olarak [buradan](/posts/typescript-tipler-ve-deger-kumeleri) okuyabilirsiniz.
 
 > Part one of the series can be found [here](https://blog.uygar.dev/typescript-thinking-of-types-as-value-sets-introduction-c4360942ce4b?source=friends_link&sk=ca054598aa1eaabbc896654e3c4b0997)
 

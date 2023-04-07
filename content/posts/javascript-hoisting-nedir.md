@@ -14,7 +14,7 @@ subtitle: "Farklı Değer Türlerinde Hoisting Davranışı"
 ---
 
 > Read this post in
-> English [here](https://medium.com/@uygardev/what-is-hoisting-in-javascript-how-does-it-work-part-i-on-variables-f7a610c888c)
+> English [here](/posts/what-is-hoisting-in-js-part-i/)
 
 Bu yazıda Js’de en çok kafa karıştıran konseptlerden biri olan Hoisting kavramından bahsedeceğim. Hoisting Js kodlarımız
 Engine tarafından çalıştırıldığında deklerasyonların kodun en başına alınması işlemidir. Hosting davranışını etkileyen
