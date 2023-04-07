@@ -174,7 +174,7 @@ paginate = 12
 [params.analytics]
   enable = true
   [params.analytics.google]
-    id = "UA-37661498-1"
+    id = "G-KPSMWK702R"
 
 [sitemap]
   changefreq = "weekly"
