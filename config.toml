@@ -125,7 +125,7 @@ paginate = 12
   github = "uygardev"
   dribbble = "uygardev"
   email = "me@uygar.dev"
-  medium = "uygardev"
+  medium = "@uygardev"
 
 [params.list]
   # special amount of posts in each list page
