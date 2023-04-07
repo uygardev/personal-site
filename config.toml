@@ -74,7 +74,7 @@ copyright = "Uygar Aydin"
   [[menu.main]]
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+    pre = ''
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Posts"
@@ -84,7 +84,7 @@ copyright = "Uygar Aydin"
     weight = 1
   [[menu.main]]
     identifier = "categories"
-    pre = ""
+    pre = ''
     post = ""
     name = "Categories"
     url = "/categories/"
@@ -92,12 +92,20 @@ copyright = "Uygar Aydin"
     weight = 2
   [[menu.main]]
     identifier = "tags"
-    pre = ""
+    pre = ''
     post = ""
     name = "Tags"
     url = "/tags/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "Github"
+    pre = '<i class="fab fa-github fa-fw" aria-hidden="true"></i>'
+    post = ""
+    name = ""
+    url = "https://github.com/uygardev/personal-site"
+    title = ""
+    weight = 4
 
 # Markup related configuration in Hugo
 [markup]
