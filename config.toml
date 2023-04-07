@@ -9,6 +9,8 @@ title = "uygar.dev | Full Stack Developer"
 theme = "DoIt"
 # default amount of posts in each pages
 paginate = 12
+googleAnalytics = "G-KPSMWK702R"
+copyright = "Uygar Aydin"
 
 [params]
   # DoIt theme version
