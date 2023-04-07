@@ -12,6 +12,9 @@ paginate = 12
 googleAnalytics = "G-KPSMWK702R"
 copyright = "Uygar Aydin"
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   # DoIt theme version
   version = "0.3.X"
@@ -144,27 +147,38 @@ copyright = "Uygar Aydin"
   # amount of RSS pages
   rss = 10
 
-# LoveIt NEW | 0.2.0 Search config
 [params.search]
   enable = true
-  # type of search engine ["lunr", "algolia"]
-  type = "lunr"
+  # type of search engine ("algolia", "fuse")
+  type = "fuse"
   # max index length of the chunked content
   contentLength = 4000
   # placeholder of the search bar
   placeholder = ""
-  # LoveIt NEW | 0.2.1 max number of results length
+  # DoIt NEW | 0.2.1 max number of results length
   maxResultLength = 10
-  # LoveIt NEW | 0.2.3 snippet length of the result
+  # DoIt NEW | 0.2.3 snippet length of the result
   snippetLength = 30
-  # LoveIt NEW | 0.2.1 HTML tag name of the highlight part in results
+  # DoIt NEW | 0.2.1 HTML tag name of the highlight part in results
   highlightTag = "em"
-  # LoveIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
+  # DoIt NEW | 0.2.4 whether to use the absolute URL based on the baseURL in search index
   absoluteURL = false
   [params.search.algolia]
-  index = ""
-  appID = ""
-  searchKey = ""
+    index = ""
+    appID = ""
+    searchKey = ""
+  [params.search.fuse]
+    # DoIt NEW | 0.2.12 https://fusejs.io/api/options.html
+    isCaseSensitive = false
+    minMatchCharLength = 2
+    findAllMatches = true
+    location = 0
+    threshold = 0.6
+    distance = 100
+    ignoreLocation = false
+    useExtendedSearch = false
+    ignoreFieldNorm = false
+    #keys = ["title", "content", "tags", "categories"]
 
 [params.page]
   [params.page.code]

@@ -99,7 +99,7 @@ h2#kicker {
 }
 
 .search-button {
-  top: -15pt !important;
+  top: -16pt !important;
   color: hsl(0, 0%, 50%) !important;
 }
 
@@ -117,4 +117,10 @@ article.single.summary {
 
 footer .footer-container {
   font-size: .7rem !important;
+}
+
+#search-toggle-desktop {
+  i {
+    font-size: .75rem !important;
+  }
 }
