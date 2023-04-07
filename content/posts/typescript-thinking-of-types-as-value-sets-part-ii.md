@@ -9,7 +9,7 @@ license: "All rights reserved"
 image: "https://cdn-images-1.medium.com/max/2800/1*Aas9cSBztwzGAuhYuueDMQ.jpeg"
 featuredImage: "https://cdn-images-1.medium.com/max/2800/1*Aas9cSBztwzGAuhYuueDMQ.jpeg"
 pageStyle: "normal"
-title: "Typescript: Thinking of Types as Value Sets — Part II"
+title: "TypeScript: Thinking of Types as Value Sets — Part II"
 subtitle: "Literal, Union, and Intersection Types, Type Alias"
 ---
 
