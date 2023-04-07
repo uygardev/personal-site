@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,700&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap');
+$code-font-family: Fira Mono, Source Code Pro, Menlo, Consolas, Monaco, monospace;
+$global-font-family: 'Source Serif Pro', serif;
+$header-title-font-family: 'Martel Sans', sans-serif !important;
+$global-font-size: 125%;
+$global-line-height: 1.6rem;
+$code-font-size: .70rem;
+
+html {
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  //text-shadow: #fff 0 1px 1px;
+  text-rendering: optimizeLegibility !important;
+}
+
+p {
+  display: inline-block;
+  margin: .7rem 0 !important;
+}
+
+li {
+  p {
+    display: inline;
+  }
+}
+
+a.menu-item {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: .75rem;
+    letter-spacing: 0.1rem;
+    color: hsl(0, 0%, 30%);
+    &:hover {
+        color: hsl(0, 0%, 50%);
+    }
+}
+
+blockquote {
+  font-style: italic;
+}
+
+h1.headerLink {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.6rem !important;
+  font-weight: 900;
+}
+
+h2#kicker {
+  border: none;
+  font-family: 'Lato', sans-serif;
+  color: hsl(0, 0%, 60%);
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.headerLink {
+    font-family: 'Lato', sans-serif !important;
+}
+
+.single {
+    .single-title {
+      font-family: 'Lato', sans-serif;
+      font-weight: 900;
+      font-size: 2.5rem;
+      line-height: 1.2;
+    }
+    .single-subtitle {
+      border: none;
+      font-family: 'Lato', sans-serif;
+      color: hsl(0, 0%, 60%);
+      text-transform: uppercase;
+      font-size: .9rem !important;
+      font-style: normal !important;
+      font-weight: 900 !important;
+    }
+    .post-meta {
+      font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size: 0.75rem !important;
+      .author {
+        font-size: 0.75rem !important;
+      }
+      .post-category {
+        font-size: 0.75rem !important;
+      }
+      .post-meta-line {
+        i:nth-child(n + 2), span i.fa-balance-scale {
+          margin-left: 0.7rem;
+        }
+      }
+    }
+}
+
+.logo {
+  width: 2rem;
+  vertical-align: middle !important;
+}
+
+.search-button {
+  top: -15pt !important;
+  color: hsl(0, 0%, 50%) !important;
+}
+
+article.single.summary {
+  margin-bottom: .75rem;
+  padding-bottom: 2rem !important;
+  .featured-image-preview {
+    display: none;
+  }
+}
+.home[posts] .summary .content {
+  line-clamp: 1 !important;
+  -webkit-line-clamp: 1 !important;
+}
+
+footer .footer-container {
+  font-size: .7rem !important;
+}
