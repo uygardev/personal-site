@@ -14,7 +14,7 @@ paginate = 12
   # DoIt theme version
   version = "0.3.X"
   # site default theme ["auto", "light", "dark"]
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = "https://github.com/uygardev"
   # LoveIt NEW | 0.1.1 which hash function used for SRI, when empty, no SRI is used
@@ -169,3 +169,14 @@ paginate = 12
     Twitter = true
     Facebook = true
     Linkedin = true
+
+# LoveIt NEW | 0.2.0 Analytics config
+[params.analytics]
+  enable = true
+  [params.analytics.google]
+    id = "UA-37661498-1"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
