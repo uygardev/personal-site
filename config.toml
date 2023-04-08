@@ -11,6 +11,7 @@ theme = "DoIt"
 paginate = 12
 googleAnalytics = "G-KPSMWK702R"
 copyright = "Uygar Aydin"
+enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -200,6 +201,6 @@ copyright = "Uygar Aydin"
     id = "G-KPSMWK702R"
 
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "always"
   filename = "sitemap.xml"
   priority = 0.5
