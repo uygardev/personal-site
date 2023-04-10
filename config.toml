@@ -3,7 +3,7 @@ baseURL = "https://uygar.dev/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "uygar.dev | Full Stack Developer"
+title = "uygar.dev | Full Stack Web Developer"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
