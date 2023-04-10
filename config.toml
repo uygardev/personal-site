@@ -31,7 +31,7 @@ enableRobotsTXT = true
   # website title for Open Graph and Twitter Cards
   title = "uygar.dev | Uygar Aydin"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Full Stack Developer"
+  description = "Full Stack Web Developer"
   # website images for Open Graph and Twitter Cards
   images = ["/images/uygar-aydin-logo.png"]
 
@@ -124,7 +124,7 @@ enableRobotsTXT = true
   name = "Uygar Aydin"
   title = "Uygar Aydin"
   # subtitle shown in home page (HTML format is supported)
-  subtitle = "uygar.dev | Full Stack Developer"
+  subtitle = "uygar.dev | Full Stack Web Developer"
   # whether to use typeit animation for subtitle
   typeit = true
   # whether to show social links
