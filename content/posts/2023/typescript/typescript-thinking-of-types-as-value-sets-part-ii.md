@@ -14,6 +14,7 @@ subtitle: "Literal, Union, and Intersection Types, Type Alias"
 series: ["TypeScript: Thinking of Types as Value Sets"]
 series_weight: 2
 seriesNavigation: true
+canonical: "https://blog.uygar.dev/typescript-thinking-of-types-as-value-sets-part-ii-a8317d97c8de?source=friends_link&sk=5936ddef026f1e929c8df95ebe9ef14a"
 ---
 
 > Seriyi tek makale halinde ve Türkçe olarak [buradan](/posts/typescript-tipler-ve-deger-kumeleri) okuyabilirsiniz.

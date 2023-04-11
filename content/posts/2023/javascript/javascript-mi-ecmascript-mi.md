@@ -11,6 +11,7 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*hSArHJ0DzKDgCraPkGaYK
 pageStyle: "normal"
 title: "JavaScript mi, ECMAScript mi?"
 subtitle: "Mocha, LiveScript, JavaScript, ECMAScript"
+canonical: "https://blog.uygar.dev/javascript-mi-ecmascript-mi-6a7f2a4ccc8b?source=friends_link&sk=07acf323776a3a78d934e1967e93344f"
 ---
 
 Javascript, çoğunlukla adı karıştırılan bir programlama dili. Java ile bağının olup olmadığı genelde akıllara gelen bir soru. Ayrıca bir de ECMAScript var. Şimdi gelin bu kavramlara bir açıklık getirelim.

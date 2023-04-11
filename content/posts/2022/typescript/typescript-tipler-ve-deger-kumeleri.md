@@ -11,6 +11,7 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*_rvkvAE5DhD35FZ_b9zPq
 pageStyle: "normal"
 title: "TypeScript: Tipler ve Değer Kümeleri"
 subtitle: "TypeScript: Tipleri, Değer Kümeleri Olarak Düşünmek | Literal, Union ve Intersection Tipler, Type Alias"
+canonical: "https://blog.uygar.dev/typescriptte-tipleri-deger-kumeleri-olarak-dusunmek-3cfd5b6adbf4?source=friends_link&sk=47d43b6f579d7e77367cac90a09bd1f9"
 ---
 
 > Read this post in English [here](/posts/typescript-thinking-of-types-as-value-sets-part-i/).

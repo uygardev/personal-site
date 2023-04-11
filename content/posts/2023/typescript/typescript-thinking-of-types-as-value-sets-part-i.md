@@ -14,6 +14,7 @@ subtitle: "Value Sets, Types"
 series: ["TypeScript: Thinking of Types as Value Sets"]
 series_weight: 1
 seriesNavigation: true
+canonical: "https://blog.uygar.dev/typescript-thinking-of-types-as-value-sets-introduction-c4360942ce4b?source=friends_link&sk=ca054598aa1eaabbc896654e3c4b0997"
 ---
 
 > Seriyi tek makale halinde ve Türkçe olarak [buradan](/posts/typescript-tipler-ve-deger-kumeleri) okuyabilirsiniz.

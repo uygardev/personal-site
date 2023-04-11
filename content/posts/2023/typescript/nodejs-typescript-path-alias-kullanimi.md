@@ -11,6 +11,7 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*GsCozmG32VFSCK7O11w8q
 pageStyle: "normal"
 title: "TypeScript: Node.js ile Path Alias Kullanımı"
 subtitle: "Path Alias, module-alias"
+canonical: "https://blog.uygar.dev/nodejs-typescript-path-alias-kullanimi-b05828e1ac08?source=friends_link&sk=7c1d1dd8902dc6323f739bf4b120d42e"
 ---
 
 Codebase büyüdüğünde ve kod yapısı derinleştiğinde .ts dosyalarında yaptığımız import’ların relative path’leri uzamaya başlar.

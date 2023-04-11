@@ -14,6 +14,7 @@ subtitle: "Hoisting Behavior on Variables"
 series: ["JavaScript: What is Hoisting?"]
 series_weight: 1
 seriesNavigation: true
+canonical: "https://blog.uygar.dev/what-is-hoisting-in-javascript-how-does-it-work-part-i-on-variables-f7a610c888c?source=friends_link&sk=74a7ae33f347065323e98229d3875438"
 ---
 
 > Seriyi tek makale halinde ve Türkçe olarak [buradan](/posts/javascript-hoisting-nedir/) okuyabilirsiniz.

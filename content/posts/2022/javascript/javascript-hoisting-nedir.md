@@ -11,6 +11,7 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*NVaJNY5KfKVbgAqyUo3Oh
 pageStyle: "normal"
 title: "JavaScript: Hoisting Nedir?"
 subtitle: "Farklı Değer Türlerinde Hoisting Davranışı"
+canonical: "https://blog.uygar.dev/javascriptte-hoisting-nedir-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-d64a675ef46c?source=friends_link&sk=da6b74456f63e76d68dc3e1609bbae9f"
 ---
 
 > Read this post in
