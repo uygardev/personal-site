@@ -3,7 +3,7 @@ baseURL = "https://uygar.dev/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "uygar.dev | Full Stack Web Developer"
+title = "uygar.dev | Full Stack Developer"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
@@ -31,7 +31,7 @@ enableRobotsTXT = true
   # website title for Open Graph and Twitter Cards
   title = "uygar.dev | Uygar Aydin"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Full Stack Web Developer"
+  description = "Full Stack Developer — JavaScript | Vue.js | Django"
   # website images for Open Graph and Twitter Cards
   images = ["/images/uygar-aydin-logo.png"]
 
