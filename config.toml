@@ -124,7 +124,8 @@ enableRobotsTXT = true
   name = "Uygar Aydin"
   title = "Uygar Aydin"
   # subtitle shown in home page (HTML format is supported)
-  subtitle = "uygar.dev | Full Stack Web Developer"
+  subtitle = "uygar.dev | Full Stack Developer"
+  subtitleSub = "JavaScript ● Vue.js ● Django"
   # whether to use typeit animation for subtitle
   typeit = true
   # whether to show social links
