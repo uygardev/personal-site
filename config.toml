@@ -31,7 +31,7 @@ enableRobotsTXT = true
   # website title for Open Graph and Twitter Cards
   title = "Uygar Aydin | Full Stack Developer"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Full Stack Developer — JavaScript | Vue.js | Django"
+  description = "Experienced with full-stack development and user-centered design. Committed to creating user-friendly products and addressing people's pain points."
   # website images for Open Graph and Twitter Cards
   images = ["/images/uygar-aydin-logo.png"]
   domainWithSSL = "https://uygar.dev"
