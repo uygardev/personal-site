@@ -1,6 +1,6 @@
 {{- $params := .Scratch.Get "params" -}}
 
-<meta name="Description" content="{{ $params.description | default .Site.Params.description }}">
+<meta name="description" content="{{ $params.description | default .Site.Params.description }}">
 
 
 {{- with .Site.Params.keywords -}}
