@@ -128,7 +128,7 @@ enableRobotsTXT = true
   subtitle = "uygar.dev | Full Stack Developer"
   subtitleSub = "JavaScript ● Vue.js ● Django"
   # whether to use typeit animation for subtitle
-  typeit = true
+  typeit = false
   # whether to show social links
   social = true
   # LoveIt NEW | 0.2.0 disclaimer (HTML format is supported)
