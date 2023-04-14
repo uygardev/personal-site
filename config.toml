@@ -35,6 +35,7 @@ enableRobotsTXT = true
   # website images for Open Graph and Twitter Cards
   images = ["/images/uygar-aydin-logo.png"]
   domainWithSSL = "https://uygar.dev"
+  keywords = "Full Stack Developer, Backend, Frontend, JavaScript, Vue.js, Django, TypeScript, Node.js, Developer, Web"
 
 # Author config
 [author]
