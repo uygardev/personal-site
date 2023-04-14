@@ -3,8 +3,7 @@ baseURL = "https://uygar.dev/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Uygar Aydin | Full Stack Developer"
-
+title = "Uygar Aydin — Full Stack Developer | JavaScript | Vue.js | Django"
 # Change the default theme to be use when building the site with Hugo
 theme = "DoIt"
 # default amount of posts in each pages
