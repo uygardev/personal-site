@@ -1,4 +1,0 @@
----
-title: "Kontenjan"
-layout: kontenjan
----
