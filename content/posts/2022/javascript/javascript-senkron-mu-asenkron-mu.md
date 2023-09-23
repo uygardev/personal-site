@@ -11,7 +11,7 @@ featuredImage: "https://cdn-images-1.medium.com/max/2800/1*r8BeClFn723lR3VZ3yUkv
 pageStyle: "normal"
 title: "JavaScript: Senkron mu, Asenkron mu?"
 subtitle: "JAVASCRIPT’TE ASENKRON YAPILAR"
-canonical: "https://blog.uygar.dev/javascriptte-asenkron-yap%C4%B1lar-js-senkron-mu-yoksa-asenkron-mu-8d62553501a6?source=friends_link&sk=9d590e10b6ff6b1f3745c94b0fc81e80"
+draft: true
 ---
 
 Javascript’teki senkron ve asenkron kavramları başlangıçta kafa karıştırıcı olabiliyor ki ben de bu kafa karışıklığını yaşadım. Bu konudaki işleyişi ve bilinmesi gereken önemli noktaları kafasında halen daha soru işareti olanlar için paylaşmak istedim. En başından, başlıktaki sorunun cevabını vererek bunun nedenlerini inceleyelim.
