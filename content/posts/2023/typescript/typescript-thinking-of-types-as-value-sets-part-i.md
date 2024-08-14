@@ -17,7 +17,7 @@ seriesNavigation: true
 canonical: "https://blog.uygar.dev/typescript-thinking-of-types-as-value-sets-introduction-c4360942ce4b?source=friends_link&sk=ca054598aa1eaabbc896654e3c4b0997"
 ---
 
-> Seriyi tek makale halinde ve Türkçe olarak [buradan](/posts/typescript-tipler-ve-deger-kumeleri) okuyabilirsiniz.
+> Seriyi tek makale halinde ve Türkçe olarak [buradan](https://blog.uygar.dev/typescriptte-tipleri-deger-kumeleri-olarak-dusunmek-3cfd5b6adbf4?source=friends_link&sk=47d43b6f579d7e77367cac90a09bd1f9) okuyabilirsiniz.
 
 When we execute a JS code we have written, every variable we declare has a value in the javascript value universe, whether assigned a value or not. These values are “uygar”, 46, true, “saygin”, undefined, null, { name: ‘saygin’, field: ‘Physical Education’ }, (a,b) => a-b… and all possible values. When all these possible values are grouped according to their common properties, each decomposed group becomes a set containing its possible values. We can think of these sets as types.
 
